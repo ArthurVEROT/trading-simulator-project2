@@ -2,7 +2,7 @@
 
 ## About the project
 This project has been developed by Arthur VEROT & Pierre CARETTE.
-During our training at Ironhack, we had to realize an API. We chose to build an API to run a [paper trading](https://en.wikipedia.org/wiki/Stock_market_simulator) app. On this app you can trade over 100 cryptos and 12 000 stocks. To achieve that, we used the [Binance](https://www.binance.com/fr/binance-api) and [IEX](https://iexcloud.io/docs/api/#api-reference) API.
+During our training at Ironhack, We built an API to run a [paper trading](https://en.wikipedia.org/wiki/Stock_market_simulator) app. On this app you can trade over 100 cryptos and 12 000 stocks. To achieve that, we used the [Binance](https://www.binance.com/fr/binance-api) and [IEX](https://iexcloud.io/docs/api/#api-reference) API.
 
 ## Tech stack
 NodeJS | ExpressJS | MongoDB | Mongoose
